@@ -4,7 +4,7 @@
 
 This backend serves as the core engine for the "Football Coop" platform. It connects to external football data providers to sync live scores, manages a PostgreSQL database, and serves data to the frontend via fast, async endpoints.
 
-> **Note:** This repository contains the backend server code. The frontend dashboard is currently in development.
+> **Note:** This repository is the home for a project that is in development and codebase is to follow in the following weeks.
 
 ## 🚀 Key Features
 
